@@ -2,7 +2,7 @@
 ¡Hola, soy Eduardo Huarcaya! 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
- <img src="https://i.pinimg.com/474x/47/24/3b/47243b4838113bce92b7e633cd88137f.jpg" alt="Profile views" align='left' width="250"/> 
+ <img src="https://i.pinimg.com/474x/47/24/3b/47243b4838113bce92b7e633cd88137f.jpg" alt="Profile views" align='right' width="240"/> 
 
 
 
