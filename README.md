@@ -65,7 +65,7 @@ EduardoHuarcaya-DEV@github
 
 ### 👨🏽‍💻 Mi Espacio de Trabajo
 <p>
-    <a href="#"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+    <a href="#"><img alt="YouTube Music" src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white"></a>
     <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
 </p>
 
@@ -79,7 +79,7 @@ EduardoHuarcaya-DEV@github
 
 - **Fútbol**: Me encanta jugar y seguir el fútbol en mis tiempos libres
 - **Música**: Toco la guitarra y disfruto de diferentes géneros musicales
-- **Programación**: Cada línea de código es una nueva aventura
+- **Programación**: Enfocado en el desarrollo web
 - **Aprendizaje continuo**: Siempre explorando nuevas tecnologías
 
   </td>
@@ -97,8 +97,6 @@ Convertirme en un **FullStack Developer** completo, combinando mis habilidades e
 
 "La música y el código tienen algo en común: ambos crean armonía a partir del caos."
 
-*- Un desarrollador que toca guitarra* 🎸
-
   </td>
   </tr>
 </table>
@@ -113,4 +111,4 @@ Convertirme en un **FullStack Developer** completo, combinando mis habilidades e
 ------
 Créditos: [EduardoHuarcaya-DEV](https://github.com/EduardoHuarcaya-DEV)
 
-Última actualización: Mayo 2025
+Última actualización: Junio 2025
