@@ -112,3 +112,6 @@ Convertirme en un **FullStack Developer** completo, combinando mis habilidades e
 Créditos: [EduardoHuarcaya-DEV](https://github.com/EduardoHuarcaya-DEV)
 
 Última actualización: Junio 2025
+
+
+<img alt="blue" src="https://pbs.twimg.com/media/FxX31O2WcAEnwaD.jpg:large">
